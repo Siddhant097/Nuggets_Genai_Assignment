@@ -1,0 +1,20 @@
+.env
+# Python venv
+venv/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+
+# Data outputs
+data/raw/
+data/processed/
+
+# VS Code settings
+.vscode/
+
+# Mac
+.DS_Store
