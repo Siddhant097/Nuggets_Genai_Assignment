@@ -6,6 +6,7 @@
 
 ## 🎯 Overview
 This project demonstrates an end-to-end Generative AI solution tailored for Zomato, marrying robust web scraping, data engineering, and advanced Retrieval-Augmented Generation (RAG) techniques. By extracting real-time restaurant data and indexing it into a vector store, we empower a chatbot to deliver precise, contextual responses to complex natural language queries about menus, dietary features, pricing, and more.
+
 Nuggets_Gen_ai_Walkthrough Video-https://www.youtube.com/watch?v=1bnndOWC38M
 
 Demo Rag Bot Video-https://youtu.be/oDLkKVLB3Dk
