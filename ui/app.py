@@ -40,7 +40,7 @@ with st.sidebar:
        - *“Address of Barbeque Nation Gomti Nagar”*
     """)
     st.write("---")
-    st.write("**Made by:** Aditya Singh Gahlaut")
+    st.write("**Made by:** Siddhant Mukund")
 
 
     st.markdown(
